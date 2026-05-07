@@ -1,0 +1,33 @@
+release:
+  release_date: '2026-05-07'
+  text: >
+    **These notes apply to Thunderbird for iOS version 1.0 release,
+    This is currently just a test**
+
+  groups:
+    - ' '
+
+  releases:
+    - version: '1.0b1'
+      release_date: '2026-05-07'
+
+notes:
+  ## Beta 1
+  # New
+  - note: This is the First Release! Welcome Thunderbird iOS
+    short_note: First Release
+    tag: new
+    group: 1
+
+  - note: Change from nothing, to well, everything 
+    short_note: Change from nothing, to well, everything 
+    tag: changed
+    group: 1
+
+
+  # Fixed
+  - note: This is a note of something that was broken, but is now fixed! 
+    short_note: What was broken, now is fixed 
+    tag: fixed
+    group: 1
+
